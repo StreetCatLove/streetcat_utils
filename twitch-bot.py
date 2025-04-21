@@ -37,6 +37,7 @@ RESPONSE = {
     "!ADRIENNE":"https://allmylinks.com/adriennevixen",
     "!SMESH":"https://linktr.ee/leninsmesh",
     "!NEURORIOT":"https://neuroriot.net",
+    "!MANAPUA":"https://linktr.ee/ManaPua",
     "!DIVEST":"#DivestFromTwitch https://streetcatlove.github.io/divest",
     "!BLOCK":"a helpful userscript can block unwanted video interferences https://github.com/pixeltris/TwitchAdSolutions",
     "!MULTI":"how to multi-stream - https://streetcatlove.github.io/hellostreetcat/multi"
