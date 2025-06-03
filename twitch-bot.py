@@ -31,16 +31,20 @@ COMMANDS = [
 RESPONSE = {
     "!COMMANDS":"!LIBRARY | !LARRY | !FEEDERS | !OTHERS | !REFRESH | !LINKS | !DIVEST",
     "!LIBRARY":"Chunka Luta Library is a collection of reading recommended by anti-colonial activists of Turtle Island - https://mega.nz/folder/cuMwjRyK#eDPayQSdYFwaCh9qr8zzPw",
-    "!LARRY":"https://beacons.ai/llarry",
     "!STREETCAT":"https://streetcatlove.github.io",
-    "!MAMA":"https://bsky.app/profile/mamaemmedia.bsky.social",
-    "!ADRIENNE":"https://allmylinks.com/adriennevixen",
-    "!SMESH":"https://linktr.ee/leninsmesh",
-    "!NEURORIOT":"https://neuroriot.net",
-    "!MANAPUA":"https://linktr.ee/ManaPua",
+    "!LAR":"Check out our comrade Leaping Larry - https://beacons.ai/llarry",
+    "!MAMA":"Check out our comrade Mama Em Media - https://bsky.app/profile/mamaemmedia.bsky.social",
+    "!ADRIENNE":"Check out our comrade Adrienne Vixen - https://allmylinks.com/adriennevixen",
+    "!AV":"Check out our comrade Adrienne Vixen - https://allmylinks.com/adriennevixen",
+    "!SMESH":"Check out our comrade Lenin Smesh - https://linktr.ee/leninsmesh",
+    "!NEURORIOT":"Check out our comrade Neuroriot -  https://neuroriot.net",
+    "!MANA":"Check out our comrade ManaPua - https://streetcatlove.github.io/ManaPua/",
+    "!HASHKUSH":"Check out our comrade HashKush - https://streetcatlove.github.io/HashKush/",
+    "!JULIA":"Check out our comrade Juche Julia - https://streetcatlove.github.io/JucheJulia/",
     "!DIVEST":"#DivestFromTwitch https://streetcatlove.github.io/divest",
     "!BLOCK":"a helpful userscript can block unwanted video interferences https://github.com/pixeltris/TwitchAdSolutions",
-    "!MULTI":"how to multi-stream - https://streetcatlove.github.io/hellostreetcat/multi"
+    "!MULTI":"how to multi-stream - https://streetcatlove.github.io/hellostreetcat/multi",
+    "!RECS":"I made an open source content recommendation site that dynamically features live creators and released a guide on how to copy the site and make it your own for free! Check out my favorite creators here - https://streetcatlove.github.io/recs"
 }
 
 TIMER = [
